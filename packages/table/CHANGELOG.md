@@ -1,5 +1,17 @@
 # @leafygreen-ui/table
 
+## 2.0.4
+
+### Patch Changes
+
+- Updated dependencies [03388ff2]
+- Updated dependencies [b8f03aa1]
+  - @leafygreen-ui/icon@11.3.0
+  - @leafygreen-ui/lib@9.0.0
+  - @leafygreen-ui/icon-button@9.1.6
+  - @leafygreen-ui/checkbox@6.0.6
+  - @leafygreen-ui/leafygreen-provider@2.1.3
+
 ## 2.0.3
 
 ### Patch Changes
